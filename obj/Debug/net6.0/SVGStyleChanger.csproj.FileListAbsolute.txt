@@ -1,0 +1,16 @@
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\SVGStyleChanger.exe
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\SVGStyleChanger.deps.json
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\SVGStyleChanger.runtimeconfig.json
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\SVGStyleChanger.dll
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\SVGStyleChanger.pdb
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.AssemblyInfoInputs.cache
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.AssemblyInfo.cs
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.csproj.CoreCompileInputs.cache
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.dll
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\refint\SVGStyleChanger.dll
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.pdb
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.genruntimeconfig.cache
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\ref\SVGStyleChanger.dll
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\bin\Debug\net6.0\OldSVGs\drawing.svg
+C:\Users\fakes\source\repos\SVGStyleChanger\SVGStyleChanger\obj\Debug\net6.0\SVGStyleChanger.csproj.AssemblyReference.cache
