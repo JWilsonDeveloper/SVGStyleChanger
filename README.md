@@ -1,6 +1,6 @@
 # SVGStyleChanger
 
-SVGStyleChanger is a C# application created in Microsoft Visual Studio Community 2022 (64-bit), version 17.4.0. Its purpose is to streamline the process of changing the style of all paths within a group of SVG files.
+SVGStyleChanger is a C# application for Windows created in Microsoft Visual Studio Community 2022 (64-bit), version 17.4.0. Its purpose is to streamline the process of changing the style of all paths within a group of SVG files.
 
 ## Background
 
